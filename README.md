@@ -79,7 +79,7 @@ CSS에서 `background` 혹은 `background-image` 속성으로 요소에 배경 �
 # 블록(block) 코드 강조
 
 ```html
-<a href="https://google.co" target="_blank">GOOGLE</a>
+<a href="https://google.com" target="_blank">GOOGLE</a>
 ```
 
 ```CSS
